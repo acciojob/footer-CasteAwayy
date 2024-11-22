@@ -28,6 +28,7 @@
 }
 .media-icons {
   position: relative;
+display:flex;
 }
 .media-icons ul {
   list-style-type: none;
